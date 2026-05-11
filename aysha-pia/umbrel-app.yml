@@ -5,7 +5,7 @@ tagline: Torrent with built-in Private Internet Access VPN
 icon: https://svgur.com/i/mvA.svg
 category: Networking
 version: 1.0.0
-port: 9091
+port: 9092
 description: >-
   Transmission torrent client that routes all traffic through Private Internet Access VPN. Your IP address stays hidden while downloading.
 developer: ayshafrahman
