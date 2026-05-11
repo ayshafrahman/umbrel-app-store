@@ -11,7 +11,7 @@ services:
       - VPN_TYPE=openvpn
       - OPENVPN_USER=${PIA_USER}   # References the .env file
       - OPENVPN_PASSWORD=${PIA_PASS} # References the .env file
-      - SERVER_REGIONS=Auto
+      - SERVER_REGIONS=US New York
     ports:
       - 9092:9091
       - 6881:6881
