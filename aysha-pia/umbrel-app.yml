@@ -1,26 +1,12 @@
 manifestVersion: 1
 id: aysha-pia
 name: Private Internet Access
-tagline: Replace this tagline with your app's tagline
+tagline: Use built-in Private Internet Access VPN
 icon: https://svgur.com/i/mvA.svg
 category: Networking
-description: Transmission torrent client with Private Internet Access VPN
 version: 1.0.0
 port: 9091
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
-gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-releaseNotes: >-
-  Add what's new in the latest version of your app here.
-dependencies: []
-path: ""
-defaultUsername: ""
-defaultPassword: ""
+description: >-
+  Transmission torrent client that routes all traffic through Private Internet Access VPN. Your IP address stays hidden while downloading.
+developer: ayshafrahman
+support: https://github.com/ayshafrahman/umbrel-app-store/issues
